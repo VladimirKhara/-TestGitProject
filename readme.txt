@@ -1,9 +1,8 @@
-test123
-new line
-
-class TestClass
+class Test
 {
 	//some fields
-	//some methods
+	void testFunction()
+	{
+		/**/
+	}
 }
-
